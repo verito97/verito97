@@ -115,7 +115,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/kyiv-jan-little-boy-choosing-school-supplies-mother-stationery-shop-kyiv-jan-little-boy-choosing-school-supplies-158053886-1600x1156.jpg",
+              "src": "@PROJECT_PATH@/assets/images/school-760x506.jpg",
               "link": "",
               "alt": "foto",
               "title": "foto"
@@ -168,8 +168,19 @@
             "showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/kyiv-jan-little-boy-choosing-school-supplies-mother-stationery-shop-kyiv-jan-little-boy-choosing-school-supplies-158053886-1600x1156.jpg",
+                "image": "@PROJECT_PATH@/assets/images/school-760x506.jpg",
                 "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "ARTÍSTICA",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/school-760x506.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
